@@ -1,0 +1,27 @@
+﻿  Source.cpp
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(172,112): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(172,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(173,113): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(173,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(311,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(371,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(377,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\GameSFML\Source.cpp(28,9): warning C4101: 'TotalScore': unreferenced local variable
+  GameSFML.vcxproj -> C:\Users\pisit\OneDrive\เดสก์ท็อป\รวม\งาน\Programing Fundamental\Game\GameSFML\Debug\GameSFML.exe
